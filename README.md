@@ -16,9 +16,13 @@ Otra de sus caracteristicas es que compensa el rendimiento de diferentes disposi
 
 ### Funcion de Ajuste Gamma.
 La función se puede implementar sobre una imagen en escala de grises o sobre una imagen en color real RGB.
-![image](https://user-images.githubusercontent.com/114626288/192912507-e30f2d8c-cab5-43be-b7b4-5545cbacea75.png)
+![image](https://user-images.githubusercontent.com/114626288/192913158-df84c2e3-bb4f-4bcd-99fe-c50e3fe1b03f.png)
 
 *Efecto del factor de ajuste
 1.Para gamma = 1 no hay ninguna corrección. No se modifica la imagen.
 2.Para gamma > 1 hay una gran correccion para valores pequeños del color de entrada.
 3.Para gamma < 1 hay una gran correccion en el contraste para valores grandes.
+
+Realizamos una practica en Matlab para poder crear el codigo y ver las diferencias que genera el ajuste de gamma.
+En esta imagen mostramos la diferenci de imagenes en 2.5
+![image](https://user-images.githubusercontent.com/114626288/192913416-a0bea33f-d9b8-4e3c-87bd-f7dab14c007e.png)
