@@ -27,5 +27,5 @@ Realizamos una practica en Matlab para poder crear el codigo y ver las diferenci
 En esta imagen mostramos la diferenci de imagenes en 2.5
 ![image](https://user-images.githubusercontent.com/114626288/192913416-a0bea33f-d9b8-4e3c-87bd-f7dab14c007e.png)
 
-###Conclus iones 
+### Conclusiones 
 Esta practica nos ayuda a ver como podemos ver mas la informacion y datos en una imagen  ya que el ajuste de gamma muestra como disminuir o aumentar el contraste el cual realiza un cambio en la intensidad de la imagen.
