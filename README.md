@@ -25,6 +25,7 @@ La función se puede implementar sobre una imagen en escala de grises o sobre un
 
 Realizamos una practica en Matlab para poder crear el codigo y ver las diferencias que genera el ajuste de gamma.
 En esta imagen mostramos la diferenci de imagenes en 2.5
+
 ![image](https://user-images.githubusercontent.com/114626288/192913416-a0bea33f-d9b8-4e3c-87bd-f7dab14c007e.png)
 
 ### Conclusiones 
